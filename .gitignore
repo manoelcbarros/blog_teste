@@ -1,2 +1,3 @@
+**/*.pyc 
 **/*.pyc
-app.db
+app.db 
